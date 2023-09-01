@@ -1,5 +1,5 @@
-import turtle
 import random
+import turtle
 
 timmy = turtle.Turtle()
 timmy.shape("turtle")
