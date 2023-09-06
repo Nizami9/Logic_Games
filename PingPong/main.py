@@ -1,5 +1,6 @@
 from turtle import Screen, Turtle
 from paddle import Paddle
+from ball import Ball
 
 screen = Screen()
 screen.bgcolor('black')
@@ -9,6 +10,7 @@ screen.tracer(0)
 
 r_paddle = Paddle((350, 0))
 l_paddle = Paddle((-350, 0))
+ball = Ball()
 
 screen.listen()
 screen.onkey(r_paddle.go_up, "Up")
@@ -21,5 +23,8 @@ game_is_on = True
 
 while game_is_on:
     screen.update()
+    ball.move()
+    if ball.ycor() > 290 or ball.ycor() < -290:
+        ball.bounce()
 
 screen.exitonclick()
