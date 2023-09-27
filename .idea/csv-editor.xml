@@ -31,20 +31,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Downloads/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/day-25-us-states-game-start/50_states.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
