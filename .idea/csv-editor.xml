@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/NATO_alphabet/nato_phonetic_alphabet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Pandas/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv">
           <value>
             <Attribute>
@@ -39,13 +46,6 @@
           </value>
         </entry>
         <entry key="/USAStates/States_to_learn.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Downloads/NATO+Phonetic+Alphabet+for+the+Code+Exercise/nato_phonetic_alphabet.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
