@@ -59,13 +59,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Downloads/Solution+-+birthday-wisher-end/birthdays.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
